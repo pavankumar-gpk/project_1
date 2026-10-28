@@ -6,8 +6,8 @@ function App() {
   return (
     <>
      <div>
-       <p>main changes</p>
-       <p>name of the center</p>
+    <p>Let use change this in the branch feature 1</p>
+
      </div>
     </>
   )
